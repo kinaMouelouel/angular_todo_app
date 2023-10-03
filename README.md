@@ -1,5 +1,5 @@
 # Angular To-Do List App
-![To-Do List App Screenshot](screenshots/Todo Angular App.gif)
+![To-Do List App Screenshot](Todo_Angular_App.gif)
 ## Overview
 
 This is a simple To-Do List application built with Angular. It provides basic functionality for managing tasks, including adding, editing, and deleting tasks.
